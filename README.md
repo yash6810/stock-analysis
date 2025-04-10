@@ -21,7 +21,7 @@ A Python-based stock analysis tool that provides technical analysis and visualiz
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/stock-analysis.git
+git clone https://github.com/yash6810/stock-analysis.git
 cd stock-analysis
 ```
 
